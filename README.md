@@ -14,10 +14,10 @@ Entre las características de la aplicaciones, se tiene:
 
 
 # Pasos para la instalación
-1 Clonar el repositorio
-2 Abrir el proyecto en Intellij
-3 Elegir cualquier producto del carrito
-4 Dirigirse a la opción “Ver Carrito” y pulsar el botón “Confirmar compra”
+1) Clonar el repositorio
+2) Abrir el proyecto en Intellij
+3) Elegir cualquier producto del carrito
+4) Dirigirse a la opción “Ver Carrito” y pulsar el botón “Confirmar compra”
 
 # Tecnologías
 Este ha sido un proyecto creado en:
